@@ -26,6 +26,7 @@
 .container{
     padding-inline: 1%;
     height: 80%;
+    max-width: 100%;
 }
 
 /* skills */
@@ -38,6 +39,11 @@
     /* padding-bottom: 4px; */
     width: max-content;
     font-size: 1.6rem;
+    
+}
+
+.skillMain{
+    overflow-x: auto;
 }
 
 .desc{
