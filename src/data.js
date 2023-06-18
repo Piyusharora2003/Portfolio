@@ -4,7 +4,7 @@ export const data={
     profilepic:"https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     githublink:"https://github.com/Piyusharora2003",
     workField:"web developer",
-    cvlink:"https://drive.google.com/file/d/1-YOUr9H_s1sV0fsHwNRiq1o-ITL9UouY/view?usp=share_link",
+    cvlink:"https://drive.google.com/file/d/1UufdHNmvwSdqSZ7w9fO0ZLTQsGOOMg1m/view?usp=sharing",
     linkedinLink:"https://www.linkedin.com/in/piyush-arora-378986259",
     onelineyou:"Aspiring web developer, passionate about creating engaging and interactive web experiences using modern technologies.",
     projects:[{
